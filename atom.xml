@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://weiqiaoxi.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-09-17T05:15:41.900Z</updated>
+    <title>weiqiaoxi</title>
+    <updated>2019-09-17T05:19:19.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://weiqiaoxi.github.io"/>
     <link rel="self" href="https://weiqiaoxi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>weiqiaoxi</subtitle>
     <logo>https://weiqiaoxi.github.io/images/avatar.png</logo>
     <icon>https://weiqiaoxi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, weiqiaoxi</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://weiqiaoxi.github.io/post/ce-shi</id>
+        <link href="https://weiqiaoxi.github.io/post/ce-shi">
+        </link>
+        <updated>2019-09-17T05:18:34.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是weiqiaoxi]]></title>
         <id>https://weiqiaoxi.github.io/post/wo-shi-weiqiaoxi</id>
